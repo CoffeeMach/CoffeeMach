@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoffeeMach
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Python, C, Java, Haskell, JavaScript and about AI
-- 💞️ I’m looking to collaborate on any projects about game development! Preferably RPG or FPS games that run on PC.
+- 💞️ I’m looking to collaborate on any projects about game development! Preferably RPG or FPS games that use AI.
 - 📫 How to reach me: dilarabas21@gmail.com
 
 <!---
