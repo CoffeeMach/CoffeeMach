@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoffeeMach
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning F#.
-- 💞️ I’m looking to collaborate on any projects about game development! Preferably RPG or FPS games.
+- 👀 I’m interested in game development and cybersecurity.
+- 🌱 I’m currently learning Scala and Rust.
+- 💞️ I’m looking to collaborate on any projects about game development!
 - 📫 How to reach me: dilarabas21@gmail.com
 
 <!---
